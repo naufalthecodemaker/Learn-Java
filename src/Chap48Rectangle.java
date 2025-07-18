@@ -8,6 +8,6 @@ public class Chap48Rectangle extends Chap48ShapeClass{
 
     @Override
     double area(){
-        return length * width;
+        return length * width ;
     }
 }
